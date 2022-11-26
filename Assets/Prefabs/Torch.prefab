@@ -339,7 +339,7 @@ MeshCollider:
   m_GameObject: {fileID: 1922653939929836964}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
@@ -389,7 +389,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 0.7264151, g: 0.5535834, b: 0.15419191, a: 1}
   m_Intensity: 1.5
-  m_Range: 11.58
+  m_Range: 13.75
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -686,7 +686,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 1099
+  m_VersionIndex: 1102
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -777,7 +777,7 @@ MeshCollider:
   m_GameObject: {fileID: 7552524836575591008}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
